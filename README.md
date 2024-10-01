@@ -5,9 +5,12 @@
 
 <br>
 
-This Modpack is meant to just add a few QOL features to continue with your gameplay!
+In this mod pack, regain control with the help of a mini-map for you to navigate and explore your world, along with enhanced visuals to further bring Minecraft to Life! Enjoy the ease of crafting and inventory management as well with mods to help with recipe management and menu interaction.
 
-In addition there are a few optional mods that are disabled by default as these mostly are just extra features that most players will not want or need.
+Ever wanted to speak with your friends in-game as well? Using Simple Voice Chat, now you can! Simply follow their instructions to set it up on a server or just join one that already has.
+
+There are a few additional *optional* mods that are disabled by default. These are mostly just extra features that most players will not want or need.
+to Include BuildGuide & Litematica for building overlays.
 
 <br>
 
@@ -59,7 +62,7 @@ In addition there are a few optional mods that are disabled by default as these 
 **Resource Packs**
 - Default Dark Mode
 
-<br>
+&lt;br&gt;
 
 **Shader Packs**
 - Complementary Reimagined
